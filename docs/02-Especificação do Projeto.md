@@ -79,8 +79,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O aplicativo deve permitir o cadastro de usuários do tipo ONG | ALTA | 
+|RF-002| O aplicativo deve permitir a atualização do cadastro de usuários do tipo ONG | MÉDIA |
+|RF-003| O usuário deve conseguir realizar o login no aplicativo utilizando as informações de usuário e senha previamente cadastrados | ALTA |
+|RF-004| O usuário deve conseguir recuperar a senha de acesso | MÉDIA |
+|RF-005| O usuário deve conseguir alterar a senha de acesso | MÉDIA |
+|RF-006| O aplicativo deve permitir a criação e a publicação de histórias/projetos pelas ONGs cadastradas | ALTA |
+|RF-007| As ONGs devem conseguir cadastrar um título, uma descrição e as fotos para cada história/projeto  | ALTA |
+|RF-008| As ONGs devem conseguir cadastrar para cada história/projeto uma meta de arrecadação em reais | ALTA |
+|RF-009| Os usuários do aplicativo devem conseguir visualizar as histórias/projetos vinculados à cada ONG | MÉDIA |
+|RF-010| O aplicativo deve permitir a busca de ONG's por filtros (categoria, palavras-chave etc.) | ALTA |
+|RF-011| Os usuários devem conseguir visualizar a meta de arrecadação e o valor atual arrecadado para cada história/projeto (em reais e percentual) | ALTA |
+|RF-012| Ao selecionar uma determinada história/projeto, o usuário deve conseguir visualizar os detalhes do projeto: descrição, fotos etc. | ALTA |
+|RF-013| O aplicativo deve permitir que os usuários façam doações por meio de transferência bancária (Pix),  boleto ou donativos. | ALTA |
+|RF-014| O aplicativo deve emitir recibo, caso o usuário deseje. | MÉDIA |
+|RF-015| O aplicativo deve listar os donativos que a ONG aceita. | ALTA |
+|RF-016| O aplicativo deve emitir um código de doação, em caso de donativos. | ALTA |
+|RF-017| O aplicativo deve emitir boleto bancário, caso o usuário selecione essa opção. | ALTA |
+
 
 ### Requisitos não Funcionais
 
