@@ -37,6 +37,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Fundador de ONG  | Definir uma meta de arrecadação para cada projeto          | Os doadores ficarem cientes das arrecadações feitas pela ONG               |
 |Possível doador  | Visualizar as ong's cadastradas no aplicativo          | Conhecer as histórias dos projetos               |
 |Possível doador       | Fazer buscas por filtros como nome e categoria               | Encontrar projetos de maneira mais eficiente |
+|Possível doador       | Fazer doação por PIX, boleto ou donativo               | Ajudar a ONG da da forma que for mais conveniente |
+|Possível doador       | Obter um comprovante de doação após o termino da operação               | Ter uma forma de comprovar a operação se necessário |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
