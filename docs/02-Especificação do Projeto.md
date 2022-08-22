@@ -28,6 +28,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 </br>
 
+|| ONG Salvando Vidas<br><br> Idade: 42 anos<br>Estado Civil: Casada<br>Naturalidade: Belo Horizonte<br>Tipo de moradia atual: Casa própria<br>Cidade em que reside atualmente: Belo Horizonte<br>Formação: Ensino Superior Completo <br>Ocupação: Professora e uma das fundadoras da ONG Salvando Vidas | Aplicativos:<br><br> <ul><li>WhatsApp</li><li>Instagram</li><li>Linkedin </li><li>Netflix</li><li>Google Classrrom</li></ul>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Vontade de ajudar as famílias de alunos que passam por necessidades </li><li>•	Necessidade de arrecadar doações e donativos para as famílias </li></ul>|**Frustrações:**<br><br><ul><li> Dificuldade em conseguir doações e donativos para as famílias </li><li>Dificuldade e altos custos para recolher os donativos nas casas das pessoas </li></ul>|**Hobbies e História:**<br><br><ul><li>Viajar, ler e assistir documentários</li></ul>|
+
+</br>
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
