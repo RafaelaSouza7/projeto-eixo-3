@@ -8,9 +8,25 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<p align="justify">As personas levantadas durante o processo de entendimento do problema são apresentadas a seguir.</p>
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+|| Alisson Guedes<br><br> Idade: 28 anos<br>Estado Civil: Casado<br>Naturalidade: Belo Horizonte<br>Tipo de moradia atual: Casa alugada<br>Cidade em que reside atualmente: Belo Horizonte<br>Formação: Graduação Licenciatura Física<br>Ocupação: Product Owner | Aplicativos:<br><br> <ul><li>Twitter</li><li>Youtube</li><li>Google</li><li>Facebook</li><li>Instagram </li><li>WhatsApp</li></ul>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Tem vontade de ajudar outras pessoas, especialmente as que se encontram em situações de vulnerabilidade</li></ul>|**Frustrações:**<br><br><ul><li> Não ter clareza de onde o dinheiro doado será empregado pelas instituições</li><li> Dificuldade em localizar ONG, instituições ou famílias que necessitam de doações</li></ul>|**Hobbies e História:**<br><br><ul><li>Viajar, andar de bicicleta, jogar vídeo game, ler mangás, brincar com os gatos, fazer trilha e cachoeira</li></ul>|
+
+</br>
+
+|| Maria Marta<br><br> Idade: 68 anos<br>Estado Civil: Separada judicialmente<br>Naturalidade: Belo Horizonte<br>Tipo de moradia atual: Casa própria<br>Cidade em que reside atualmente: Belo Horizonte<br>Formação: Grau Técnico<br>Ocupação: Aposentada | Aplicativos:<br><br> <ul><li>Globoplay</li><li>WhatsApp</li><li>Uber</li><li>Bancos</li><li>Facebook </li><li>Youtube</li></ul>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Costuma realizar doações em dinheiro mensalmente para instituições de caridade</li><li>Gosta de ajudar as pessoas mais necessitadas</li><li>Não gosta de passar seus dados por telefone, pois tem medo de golpes</li></ul>|**Frustrações:**<br><br><ul><li> Ter que ficar aguardando o recolhimento da doação, o que a impede de realizar outras atividades</li><li>Ligações constantes de várias instituições solicitando doações</li><li>Ter que informar seus dados a terceiros por telefone, como cpf e dados bancários</li></ul>|**Hobbies e História:**<br><br><ul><li>Colecionar suculentas, cuidar de plantas, fazer caminhada e viajar.</li></ul>|
+
+</br>
+
+|| Ana Karolina<br><br> Idade: 33 anos<br>Estado Civil: Solteira<br>Naturalidade: Belo Horizonte<br>Tipo de moradia atual: Casa própria<br>Cidade em que reside atualmente: Belo Horizonte<br>Formação: Ensino Superior Completo <br>Ocupação: Jornalista e fundadora da ONG Um Lar para Sol | Aplicativos:<br><br> <ul><li>WhatsApp</li><li>Instagram</li><li>Sites de Notícias</li><li>Bancos</li><li>Pinterest</li><li>Linkedin</li><li>Globoplay</li></ul>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Resgatou uma gata em 2019, Felv+, que recebeu o nome de Sol. Após ter tido dificuldades para encontrar um lar para ela devido a sua condição, decidiu iniciar um trabalho de resgate de animais em condições vulneráveis. </li><li>Devido a ONG ser recente, tem poucos seguidores nas suas redes sociais, o que dificulta a divulgação de animais disponíveis para adoção. </li><li>Necessidade de arrecadar recursos como ração e remédios, para os animais.  </li></ul>|**Frustrações:**<br><br><ul><li> Dificuldade em conseguir doações para manter os animais da ONG</li><li>Dificuldade em conseguir lares temporários ou adotantes para os animais</li><li>Falta de apoio dos órgãos competentes para ações de resgate e cuidados com os animais</li></ul>|**Hobbies e História:**<br><br><ul><li>Fotografar, viajar, fazer passeios que envolvam contato com a natureza, sair para comer.</li></ul>|
+
+</br>
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -37,9 +53,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Fundador de ONG  | Definir uma meta de arrecadação para cada projeto          | Os doadores ficarem cientes das arrecadações feitas pela ONG               |
 |Possível doador  | Visualizar as ong's cadastradas no aplicativo          | Conhecer as histórias dos projetos               |
 |Possível doador       | Fazer buscas por filtros como nome e categoria               | Encontrar projetos de maneira mais eficiente |
-|Possível doador       | Fazer doação por PIX, boleto ou donativo               | Ajudar a ONG da da forma que for mais conveniente |
-|Possível doador       | Obter um comprovante de doação após o termino da operação               | Ter uma forma de comprovar a operação se necessário |
-
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
