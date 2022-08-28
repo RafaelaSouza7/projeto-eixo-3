@@ -50,15 +50,15 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Fundador de ONG  | Cadastrar minha ONG no aplicativo         | Facilitar a captação de recursos financeiros               |
-|Fundador de ONG  | Atualizar os dados cadastrais de minha organização          | Corrigir possíveis erros de cadastro               |
-|Fundador de ONG  | Fazer login no aplicativo         | Administrar e divulgar os projetos de minha organização               |
-|Fundador de ONG  | Recuperar minha senha de acesso        | Ter acesso ao aplicativo               |
-|Fundador de ONG  | Alterar minha senha de acesso         | Manter a segurança de minha conta no aplicativo           |
-|Fundador de ONG  | Publicar histórias e projetos         | Divulgar o trabalho feito pela ONG              |
-|Fundador de ONG  | Definir uma meta de arrecadação para cada projeto          | Os doadores ficarem cientes das arrecadações feitas pela ONG               |
-|Possível doador  | Visualizar as ong's cadastradas no aplicativo          | Conhecer as histórias dos projetos               |
-|Possível doador       | Fazer buscas por filtros como nome e categoria               | Encontrar projetos de maneira mais eficiente |
+|ONG| Cadastrar minha ONG no aplicativo         | Facilitar a captação de recursos financeiros               |
+|ONG| Atualizar os dados cadastrais de minha organização          | Corrigir possíveis erros de cadastro               |
+|ONG| Fazer login no aplicativo         | Administrar e divulgar os projetos de minha organização               |
+|ONG| Recuperar minha senha de acesso        | Ter acesso ao aplicativo               |
+|ONG| Alterar minha senha de acesso         | Manter a segurança de minha conta no aplicativo           |
+|ONG| Publicar histórias e projetos         | Divulgar o trabalho feito pela ONG              |
+|ONG| Definir uma meta de arrecadação para cada projeto          | Os doadores ficarem cientes das arrecadações feitas pela ONG               |
+|Doador| Visualizar as ong's cadastradas no aplicativo          | Conhecer as histórias dos projetos               |
+|Doador| Fazer buscas por filtros como nome e categoria               | Encontrar projetos de maneira mais eficiente |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
