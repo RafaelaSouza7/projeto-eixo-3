@@ -108,31 +108,31 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O aplicativo deve permitir o cadastro de usuários do tipo ONG | ALTA | 
-|RF-002| O aplicativo deve permitir a atualização do cadastro de usuários do tipo ONG | MÉDIA |
-|RF-003| O usuário deve conseguir realizar o login no aplicativo utilizando as informações de usuário e senha previamente cadastrados | ALTA |
-|RF-004| O usuário deve conseguir recuperar a senha de acesso | MÉDIA |
-|RF-005| O usuário deve conseguir alterar a senha de acesso | MÉDIA |
-|RF-006| O aplicativo deve permitir a criação e a publicação de histórias/projetos pelas ONGs cadastradas | ALTA |
-|RF-007| As ONGs devem conseguir cadastrar um título, uma descrição e as fotos para cada história/projeto  | ALTA |
-|RF-008| As ONGs devem conseguir cadastrar para cada história/projeto uma meta de arrecadação em reais | ALTA |
-|RF-009| Os usuários do aplicativo devem conseguir visualizar as histórias/projetos vinculados à cada ONG | MÉDIA |
-|RF-010| O aplicativo deve permitir a busca de ONG's por filtros (categoria, palavras-chave etc.) | ALTA |
-|RF-011| Os usuários devem conseguir visualizar a meta de arrecadação e o valor atual arrecadado para cada história/projeto (em reais e percentual) | ALTA |
-|RF-012| Ao selecionar uma determinada história/projeto, o usuário deve conseguir visualizar os detalhes do projeto: descrição, fotos etc. | ALTA |
-|RF-013| O aplicativo deve permitir que os usuários façam doações por meio de transferência bancária (Pix),  boleto ou donativos. | ALTA |
-|RF-014| O aplicativo deve emitir recibo, caso o usuário deseje. | MÉDIA |
-|RF-015| O aplicativo deve listar os donativos que a ONG aceita. | ALTA |
-|RF-016| O aplicativo deve emitir um código de doação, em caso de donativos. | ALTA |
-|RF-017| O aplicativo deve emitir boleto bancário, caso o usuário selecione essa opção. | ALTA |
+|RF-01| O aplicativo deve permitir o cadastro de usuários do tipo ONG | ALTA | 
+|RF-02| O aplicativo deve permitir a atualização do cadastro de usuários do tipo ONG | MÉDIA |
+|RF-03| O usuário deve conseguir realizar o login no aplicativo utilizando as informações de usuário e senha previamente cadastrados | ALTA |
+|RF-04| O usuário deve conseguir recuperar a senha de acesso | MÉDIA |
+|RF-05| O usuário deve conseguir alterar a senha de acesso | MÉDIA |
+|RF-06| O aplicativo deve permitir a criação e a publicação de histórias/projetos pelas ONGs cadastradas | ALTA |
+|RF-07| As ONGs devem conseguir cadastrar um título, uma descrição e as fotos para cada história/projeto  | ALTA |
+|RF-08| As ONGs devem conseguir cadastrar para cada história/projeto uma meta de arrecadação em reais | ALTA |
+|RF-09| Os usuários do aplicativo devem conseguir visualizar as histórias/projetos vinculados à cada ONG | MÉDIA |
+|RF-10| O aplicativo deve permitir a busca de ONG's por filtros (categoria, palavras-chave etc.) | ALTA |
+|RF-11| Os usuários devem conseguir visualizar a meta de arrecadação e o valor atual arrecadado para cada história/projeto (em reais e percentual) | ALTA |
+|RF-12| Ao selecionar uma determinada história/projeto, o usuário deve conseguir visualizar os detalhes do projeto: descrição, fotos etc. | ALTA |
+|RF-13| O aplicativo deve permitir que os usuários façam doações por meio de transferência bancária (Pix),  boleto ou donativos. | ALTA |
+|RF-14| O aplicativo deve emitir recibo, caso o usuário deseje. | MÉDIA |
+|RF-15| O aplicativo deve listar os donativos que a ONG aceita. | ALTA |
+|RF-16| O aplicativo deve emitir um código de doação, em caso de donativos. | ALTA |
+|RF-17| O aplicativo deve emitir boleto bancário, caso o usuário selecione essa opção. | ALTA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O aplicativo deve ser implementado utilizando as tecnologias React Native, ..... | ALTA | 
-|RNF-002| A persistência dos dados será feita através da ferramenta JSON server |  ALTA | 
+|RNF-01| O aplicativo deve ser implementado utilizando as tecnologias React Native, ..... | ALTA | 
+|RNF-02| A persistência dos dados será feita através da ferramenta JSON server |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
