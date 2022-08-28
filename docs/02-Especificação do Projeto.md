@@ -179,9 +179,32 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+Para permitir a rastreabilidade entre os requisitos e os objetivos de negócio do projeto foi mapeada a seguinte matriz de rastreabilidade de requisitos:
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
+
+|                   |Fundador de ONG|Doador|RF-01|RF-02|RF-03|RF-04|RF-05|RF-06|RF-07|RF-08|RF-09|RF-10|RF-11|RF-12|RF-13|RF-14|RF-15|RF-16|RF-17|RNF-01|RNF-02|
+|-------------------|---------------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|------|
+|**Fundador de ONG**|               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**Doador**         |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-01**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-02**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-03**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-04**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-05**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-06**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-07**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-08**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-09**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-10**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-11**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-12**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-13**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-14**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-15**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-16**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RF-17**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RNF-01**         |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|**RNF-02**         |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
 
 ![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
 
