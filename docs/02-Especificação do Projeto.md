@@ -30,7 +30,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 || ONG Salvando Vidas<br><br> Idade: 42 anos<br>Estado Civil: Casada<br>Naturalidade: Belo Horizonte<br>Tipo de moradia atual: Casa própria<br>Cidade em que reside atualmente: Belo Horizonte<br>Formação: Ensino Superior Completo <br>Ocupação: Professora e uma das fundadoras da ONG Salvando Vidas | Aplicativos:<br><br> <ul><li>WhatsApp</li><li>Instagram</li><li>Linkedin </li><li>Netflix</li><li>Google Classrrom</li></ul>
 |:----------------|:--------------------|:----------------|
-|**Motivações:**<br><br><ul><li>Vontade de ajudar as famílias de alunos que passam por necessidades </li><li>•	Necessidade de arrecadar doações e donativos para as famílias </li></ul>|**Frustrações:**<br><br><ul><li> Dificuldade em conseguir doações e donativos para as famílias </li><li>Dificuldade e altos custos para recolher os donativos nas casas das pessoas </li></ul>|**Hobbies e História:**<br><br><ul><li>Viajar, ler e assistir documentários</li></ul>|
+|**Motivações:**<br><br><ul><li>Vontade de ajudar as famílias de alunos que passam por necessidades </li><li>Necessidade de arrecadar doações e donativos para as famílias </li></ul>|**Frustrações:**<br><br><ul><li> Dificuldade em conseguir doações e donativos para as famílias </li><li>Dificuldade e altos custos para recolher os donativos nas casas das pessoas </li></ul>|**Hobbies e História:**<br><br><ul><li>Viajar, ler e assistir documentários</li></ul>|
 
 </br>
 
@@ -46,7 +46,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
