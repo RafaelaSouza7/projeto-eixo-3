@@ -50,15 +50,15 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|ONG| Cadastrar minha ONG no aplicativo         | Facilitar a captação de recursos financeiros               |
-|ONG| Atualizar os dados cadastrais de minha organização          | Corrigir possíveis erros de cadastro               |
-|ONG| Fazer login no aplicativo         | Administrar e divulgar os projetos de minha organização               |
-|ONG| Recuperar minha senha de acesso        | Ter acesso ao aplicativo               |
-|ONG| Alterar minha senha de acesso         | Manter a segurança de minha conta no aplicativo           |
-|ONG| Publicar histórias e projetos         | Divulgar o trabalho feito pela ONG              |
-|ONG| Definir uma meta de arrecadação para cada projeto          | Os doadores ficarem cientes das arrecadações feitas pela ONG               |
-|Doador| Visualizar as ong's cadastradas no aplicativo          | Conhecer as histórias dos projetos               |
-|Doador| Fazer buscas por filtros como nome e categoria               | Encontrar projetos de maneira mais eficiente |
+|Fundador de ONG  | Cadastrar minha ONG no aplicativo         | Facilitar a captação de recursos financeiros               |
+|Fundador de ONG  | Atualizar os dados cadastrais de minha organização          | Corrigir possíveis erros de cadastro               |
+|Fundador de ONG  | Fazer login no aplicativo         | Administrar e divulgar os projetos de minha organização               |
+|Fundador de ONG  | Recuperar minha senha de acesso        | Ter acesso ao aplicativo               |
+|Fundador de ONG  | Alterar minha senha de acesso         | Manter a segurança de minha conta no aplicativo           |
+|Fundador de ONG  | Publicar histórias e projetos         | Divulgar o trabalho feito pela ONG              |
+|Fundador de ONG  | Definir uma meta de arrecadação para cada projeto          | Os doadores ficarem cientes das arrecadações feitas pela ONG               |
+|Possível doador  | Visualizar as ong's cadastradas no aplicativo          | Conhecer as histórias dos projetos               |
+|Possível doador       | Fazer buscas por filtros como nome e categoria               | Encontrar projetos de maneira mais eficiente |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -182,29 +182,29 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 Para permitir a rastreabilidade entre os requisitos e os objetivos de negócio do projeto foi mapeada a seguinte matriz de rastreabilidade de requisitos:
 
 
-|                   |Fundador de ONG|Doador|RF-01|RF-02|RF-03|RF-04|RF-05|RF-06|RF-07|RF-08|RF-09|RF-10|RF-11|RF-12|RF-13|RF-14|RF-15|RF-16|RF-17|RNF-01|RNF-02|
-|-------------------|---------------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|------|
-|**Fundador de ONG**|               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**Doador**         |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-01**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-02**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-03**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-04**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-05**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-06**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-07**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-08**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-09**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-10**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-11**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-12**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-13**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-14**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-15**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-16**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RF-17**          |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RNF-01**         |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
-|**RNF-02**         |               |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |      |
+|          |ONG  |Doador|RF-01|RF-02|RF-03|RF-04|RF-05|RF-06|RF-07|RF-08|RF-09|RF-10|RF-11|RF-12|RF-13|RF-14|RF-15|RF-16|RF-17|RNF-01|RNF-02|
+|----------|-----|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|------|
+|**ONG**   |     |      |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |     |     |     |     |     |     |     |     |     |      |      |
+|**Doador**|     |      |     |     |     |     |     |     |     |     |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |      |      |
+|**RF-01** |     |      |     |  x  |  x  |  x  |  x  |     |     |     |     |     |     |     |     |     |     |     |     |   x  |   x  |
+|**RF-02** |     |      |  x  |     |  x  |  x  |  x  |     |     |     |     |     |     |     |     |     |     |     |     |   x  |   x  |
+|**RF-03** |     |      |  x  |  x  |     |  x  |  x  |     |     |     |     |     |     |     |     |     |     |     |     |   x  |   x  |
+|**RF-04** |     |      |  x  |  x  |  x  |     |  x  |     |     |     |     |     |     |     |     |     |     |     |     |   x  |   x  |
+|**RF-05** |     |      |  x  |  x  |  x  |  x  |     |     |     |     |     |     |     |     |     |     |     |     |     |   x  |   x  |
+|**RF-06** |     |      |     |     |     |     |     |     |  x  |  x  |  x  |  x  |  x  |  x  |     |     |     |     |     |   x  |   x  |
+|**RF-07** |     |      |     |     |     |     |     |  x  |     |     |  x  |  x  |     |  x  |     |     |     |     |     |   x  |   x  |
+|**RF-08** |     |      |     |     |     |     |     |  x  |     |     |     |     |  x  |     |     |     |     |     |     |   x  |   x  |
+|**RF-09** |     |      |     |     |     |     |     |  x  |  x  |     |     |  x  |     |  x  |     |     |     |     |     |   x  |   x  |
+|**RF-10** |     |      |     |     |     |     |     |  x  |  x  |  x  |  x  |     |  x  |  x  |     |     |     |     |     |   x  |   x  |
+|**RF-11** |     |      |     |     |     |     |     |     |     |  x  |     |     |     |     |     |     |     |     |     |   x  |   x  |
+|**RF-12** |     |      |     |     |     |     |     |  x  |  x  |     |  x  |  x  |     |     |     |     |     |     |     |   x  |   x  |
+|**RF-13** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |     |  x  |  x  |  x  |  x  |   x  |   x  |
+|**RF-14** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |  x  |     |     |     |     |   x  |   x  |
+|**RF-15** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |  x  |     |     |  x  |     |   x  |   x  |
+|**RF-16** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |  x  |     |  x  |     |     |   x  |   x  |
+|**RF-17** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |  x  |  x  |     |     |     |      |      |
+|**RNF-01**|     |      |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |      |   x  |
+|**RNF-02**|     |      |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |   x  |      |
 
 ![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
 
