@@ -202,10 +202,11 @@ Para permitir a rastreabilidade entre os requisitos e os objetivos de negócio d
 |**RF-14** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |  x  |     |     |     |     |   x  |   x  |
 |**RF-15** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |  x  |     |     |  x  |     |   x  |   x  |
 |**RF-16** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |  x  |     |  x  |     |     |   x  |   x  |
-|**RF-17** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |  x  |  x  |     |     |     |      |      |
-|**RNF-01**|     |      |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |      |   x  |
-|**RNF-02**|     |      |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |   x  |      |
+|**RF-17** |     |      |     |     |     |     |     |     |     |     |     |     |     |     |  x  |  x  |     |     |     |   x  |   x  |
+|**RNF-01**|     |      |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |      |      |
+|**RNF-02**|     |      |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |      |      |
 
+</br></br>
 ![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
 
 > **Links Úteis**:
